@@ -1,0 +1,5 @@
+tmp/
+*old
+*backup
+*DS*Store
+Thumbs*db
